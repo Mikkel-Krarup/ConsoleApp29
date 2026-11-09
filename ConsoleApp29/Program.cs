@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Det her et mit program");
+            Console.WriteLine();
         }
     }
 }
